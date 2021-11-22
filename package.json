@@ -18,5 +18,8 @@
   "homepage": "https://github.com/CeciliaSwe/jest-automation#readme",
   "devDependencies": {
     "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "jshint": "^2.13.1"
   }
 }
